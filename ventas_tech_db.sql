@@ -1,5 +1,5 @@
 -- ============================================================================
--- Módulo 3: TechStore — Script de Ingeniería de Datos
+-- Módulo 3: TechStore — Script de Ingeniería de Datos (PostgreSQL)
 -- ============================================================================
 
 -- DDL
