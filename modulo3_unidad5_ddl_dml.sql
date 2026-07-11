@@ -1,5 +1,5 @@
 -- ══════════════════════════════════════════
--- BodegaTech — Script de Inventario
+-- BodegaTech — Script de Inventario (PostgreSQL)
 -- Autor: Analista de Datos BodegaTech
 -- Fecha: Julio 2026
 -- ══════════════════════════════════════════
